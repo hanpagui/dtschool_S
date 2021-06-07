@@ -16,4 +16,3 @@ This website is powered by **[fastpages](https://github.com/fastai/fastpages)** 
 > 엑셀 pandas / SNS,구매후기,언론 - 형태소 빈도수 분석 
 *   파이썬 쉘 : 키보드로 입력한 명령어를 운영체계로 전달하여 명령어를 실행하게 하는 프로그램 
 *   
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
