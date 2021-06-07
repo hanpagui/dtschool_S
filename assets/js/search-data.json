@@ -2,6 +2,17 @@
   
     
         "post0": {
+            "title": "Title",
+            "content": ". alist = [23.2,26.25,21.6,22.7,19.6] blist = [0.85,0.64,0.83,0.84,0.54,0.69,0.91] print(f&#39;5월의 오조의 평균 연령은 {round(sum(alist)/len(alist),1)}입니다&#39;) print(f&#39;5월의 오조의 평균 정확도는 {round(sum(blist)/len(blist),1)} 입니다&#39;) print(&#39;=&#39;*60) team_may = {&#39;한슬기&#39;:[&#39;23.3&#39;,&#39;0.85&#39;,&#39;에리카&#39;], &#39;신동열&#39;:[&#39;26.25&#39;,&#39;0.64&#39;,&#39;윤시윤&#39;], &#39;이영이&#39;:[&#39;21.6&#39;,&#39; 0.83&#39;,&#39;예인&#39;], &#39;박정선&#39;:[&#39;22.6&#39;,&#39;0.54&#39;,&#39;구혜선&#39;], &#39;김은수&#39;:[&#39;19.6&#39;,&#39;0.84&#39;,&#39;박보영&#39;], &#39;노현정&#39;:[&#39;27.9&#39;,&#39;0.69&#39;, &#39;문지인&#39;], &#39;박제희&#39;:[&#39;27.9&#39;,&#39;0.91&#39;,&#39;강승현&#39;]} nick_name = input(&#39;누가 궁금한가요? : &#39;) b_list = team_may[nick_name] print(f&#39;오월의 오조 {nick_name}님의 평균나이는 {b_list[0]}이며, 정확도는 {b_list[1]}&#39;) print(f&#39;{nick_name}님의 닮은꼴 연예인은? : {b_list[2]} &#39;) . 5월의 오조의 평균 연령은 22.7입니다 5월의 오조의 평균 정확도는 0.8 입니다 ============================================================ 누가 궁금한가요? : 신동열 오월의 오조 신동열님의 평균나이는 26.25이며, 정확도는 0.64 신동열님의 닮은꼴 연예인은? : 윤시윤 .",
+            "url": "https://hanpagui.github.io/dtschool_S/2021/06/06/_06_03_5team.html",
+            "relUrl": "/2021/06/06/_06_03_5team.html",
+            "date": " • Jun 6, 2021"
+        }
+        
+    
+  
+    
+        ,"post1": {
             "title": "An Example Markdown Post",
             "content": "Example Markdown Post . Basic setup . Jekyll requires blog post files to be named according to the following format: . YEAR-MONTH-DAY-filename.md . Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and filename is whatever file name you choose, to remind yourself what this post is about. .md is the file extension for markdown files. . The first line of the file should start with a single hash character, then a space, then your title. This is how you create a “level 1 heading” in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line ## File names above. . Basic formatting . You can use italics, bold, code font text, and create links. Here’s a footnote 1. Here’s a horizontal rule: . . Lists . Here’s a list: . item 1 | item 2 | . And a numbered list: . item 1 | item 2 | Boxes and stuff . This is a quotation . . You can include alert boxes …and… . . You can include info boxes Images . . Code . You can format text and code per usual . General preformatted text: . # Do a thing do_thing() . Python code and output: . # Prints &#39;2&#39; print(1+1) . 2 . Formatting text as shell commands: . echo &quot;hello world&quot; ./some_script.sh --option &quot;value&quot; wget https://example.com/cat_photo1.png . Formatting text as YAML: . key: value - another_key: &quot;another value&quot; . Tables . Column 1 Column 2 . A thing | Another thing | . Tweetcards . Altair 4.0 is released! https://t.co/PCyrIOTcvvTry it with: pip install -U altairThe full list of changes is at https://t.co/roXmzcsT58 ...read on for some highlights. pic.twitter.com/vWJ0ZveKbZ . &mdash; Jake VanderPlas (@jakevdp) December 11, 2019 Footnotes . This is the footnote. &#8617; . |",
             "url": "https://hanpagui.github.io/dtschool_S/markdown/2020/01/14/test-markdown-post.html",
